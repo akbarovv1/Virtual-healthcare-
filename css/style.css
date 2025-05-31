@@ -1,5 +1,123 @@
+@import url(./fonts.css);
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: "Mulish";
+  
+}
+.container{
+    width: 1500px;
+    height: 500px;
+    margin: auto;
+    
+
+}
+
+.text-menu{
+   display: flex;
+   justify-content: space-around;
+   padding-top: 70px;
+   padding-left: 900px;
+   font-size: 20px;
+   color: black;
+  
+}
+
+.T{
+    margin-left: 280px;
+    margin-top: -25px;
+    width: 50px;
+    height: 50px;
+    
+}
+
+.T-text{
+    margin-left: 29px;
+    margin-top: -53px;
+    display: flex;
+    padding-top: -px;
+    padding-left: 300px;
+}
+
+.text-headline{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.text{
+    max-width: 700px;
+    padding-top: 20px;
+    padding-left: 300px;
+    color: #7D7987;
+
+}
+
+.text-headline1{
+    max-width: 700px;
+    padding-left: 300px;
+    font-size: 40px;
+}
+
+.big{
+    margin-top: -300px;
+    margin-left: 900px;
+    width: 600px;
+    
+}
+
+.image2{
+    padding-top: 20px;
+}
+
+.text-btn{
+        display: inline-block;
+        width: 150px;
+        height: 45px;
+        border-radius: 30px;
+        background: #458FF6; 
+        text-align: center;
+        font-size: 15px;
+        font-weight: 700;
+        color: white;
+        padding-top: 12px;
+        padding-bottom: 7px;
+}
+
+.btn{
+    margin-top: 25px;
+    padding-left: 320px;
+}
+
+
+
+.section{
+    padding-top: 500px;
+    width: 1500px;
+    height: 500px;
+    margin: auto;
+}
+
+.text-h{
+    padding-left: 700px;
+    font-size: 50px;
+    
+}
+
+.text-pp{
+    max-width: 1350px;
+    padding-top: 20px;
+    padding-left: 480px;
+    color: #7D7987;
+
+}
+.card{
+    width: 350px;
+    height: 50px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: ;
+
 }
